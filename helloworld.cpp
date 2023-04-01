@@ -8,7 +8,14 @@ int main() {
 
     # my first issue and push
     std::cout << "my first issue and push" << std::endl;
+<<<<<<< HEAD
     
     std::cout << "try rebase method of merging" << std::endl;
+=======
+
+	std::cout << "rebase method: " 
+			<< "made changes on branch side" << std::endl;
+			
+>>>>>>> e966179 (rabse method commit at branch)
     return 0;
 }
