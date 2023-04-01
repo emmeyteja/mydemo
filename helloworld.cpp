@@ -14,6 +14,5 @@ int main() {
 	std::cout << "rebase method: " 
 			<< "made changes on branch side" << std::endl;
 			
->>>>>>> e966179 (rabse method commit at branch)
     return 0;
 }
