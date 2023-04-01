@@ -8,5 +8,7 @@ int main() {
 
     # my first issue and push
     std::cout << "my first issue and push" << std::endl;
+    
+    std::cout << "try rebase method of merging" << std::endl;
     return 0;
 }
