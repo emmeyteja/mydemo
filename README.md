@@ -9,3 +9,5 @@ double check
 double check1
 
 create and merge branch
+
+via branch merge
